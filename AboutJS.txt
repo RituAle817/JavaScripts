@@ -1,0 +1,25 @@
+JavaScripts is a lightweight,interpreted programming language.interpreted
+It is designed for creating nerwork-centric applications.
+It is open and cross-platform
+It helps you developing great front-end as well as back-end software using different javascript based frameworks like JQuery,Nodes.Js etc
+javascript usage has now extended to mobile app devepment ,desktop app devepment,and game devepment.
+There are many useful javascriptframeworks and libraries avaliable.
+Angular
+React
+JQuery
+vue.Js
+Ext.JavaScripts
+Ember.Js
+Meteor
+Mithril
+Node.Js
+Polymer
+Aurelia
+Backbone.Js
+Applications of javascript programming
+Client side validation
+Manipulating Html pages
+user notifications
+back-ens data loading
+presentations
+server Application
